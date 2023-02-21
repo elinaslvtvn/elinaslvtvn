@@ -1,4 +1,5 @@
 ### Hi there 👋
+![01bce837b060e1f9121a684ab9462e54_w200](https://user-images.githubusercontent.com/97684794/220264133-9c3be284-26df-4d64-a1be-5105aa08b095.gif)
 
 <!--
 **elinaslvtvn/elinaslvtvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
